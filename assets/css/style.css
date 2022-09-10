@@ -25,6 +25,8 @@ body {
 
 .forms-title {
   text-align: center;
+  font-weight: bold;
+  font-size: 40px;
 }
 
 .hidden {
@@ -120,4 +122,35 @@ div#response {
 }
 hr{
   color: #fff !important;
+}
+
+.logo{
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+}
+
+#hero-img{
+ height: 300px;
+ background: url('../images/womenlanding.jpg') no-repeat bottom right;
+}
+
+.cards-container{
+  min-width: 100%;
+  margin-top: 22px;
+}
+.card-body{
+  background-color: #F26A4B;
+}
+.card-text{
+  color: #fff;
+}
+
+.btn-cards{
+ background-color: #F26A4B !important;
+ color: #fff !important;
+}
+
+.card-img-top{
+  height: 300px;
 }
