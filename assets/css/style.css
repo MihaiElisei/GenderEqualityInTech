@@ -106,7 +106,6 @@ body {
 }
 
 div#response {
-  max-width: 80;
   max-width: 80%;
   margin: auto;
   border: 1px solid darkgrey;
@@ -118,7 +117,7 @@ div#response {
 .btn:first-child:hover, :not(.btn-check)+.btn:hover {
   color: var(--bs-btn-hover-color);
   background-color: #F26A4B;
-  border-color: var #F26A4B ;
+  border-color: #F26A4B ;
 }
 /* wit page */
 
