@@ -114,6 +114,12 @@ div#response {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+
+.btn:first-child:hover, :not(.btn-check)+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #F26A4B;
+  border-color: var #F26A4B ;
+
 /* wit page */
 
 .wit{
@@ -153,4 +159,5 @@ hr{
 
 .card-img-top{
   height: 300px;
+
 }
