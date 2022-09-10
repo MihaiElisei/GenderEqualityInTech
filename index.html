@@ -14,39 +14,41 @@
 
 <body>
   <header>
-  <nav class="navbar navbar-expand-lg bg-light">
-    <div class="container-fluid">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-1 ms-auto">
-          <li class="nav-item ms-auto">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item ms-auto">
-            <a class="nav-link" href="women_in_tech.html">Women In Tech Stats</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="quiz.html">Quiz</a>
-          </li>
-          <li>
-            <a class="nav-link" href="forms.html">Contact Us</a>
-          </li>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <img src="assets/images/logo.png" alt="" class="logo">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active-tab" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="women_in_tech.html">Women in Tech</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="quiz.html">Quiz</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="forms.html">Contact Us</a>
+            </li>
+          </ul>
+        </div>
       </div>
-    </div>
-  </nav>
+    </nav>
 </header>
 
-<div class="masthead" style="background-image: url('assets/images/womenlanding.jpg');">
 
-  <div class="color-overlay d-flex justify-content-center align-items-center">
-
-
-</div>
-</div>
 <br>
-<div class="container">
-  <div class="row row-cols-1 row-cols-md-3 g-4">
+<div id="hero-img"></div>
+<div class="container cards-container">
+  <div class="row row-cols-1 row-cols-md-2 g-5">
     <div class="col">
       <div class="card h-100">
-        <img src="assets/images/ankita.jpg" class="card-img-top" alt="...">
+        <img src="assets/images/Ankita.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">Ankita Kulkarni</h5>
           <p class="card-text">Hi, I’m Ankita! 👋🏽
@@ -58,13 +60,13 @@
             Previously, I worked as a Senior Engineering Manager, Tech Lead, Solution Architect, and Lead developer at companies such as WealthSimple, Loblaw Digital, Rangle.io, and IBM Canada. I have architected and scaled many web and mobile apps for clients using React, GraphQL, React Native and Next.js. You may know some of them: Tim Hortons, Burger King, Popeyes, Borrowell, WealthSimple, Moleskine and more.</p>
         </div>
         <div class="card-footer">
-          <button type="button" class="btn btn-primary">Book a Session</button>
+          <button type="button" class="btn btn-cards">Book a Session</button>
         </div>
       </div>
     </div>
     <div class="col">
       <div class="card h-100">
-        <img src="assets/images/mariaciobanurefactor.jpg" class="card-img-top" alt="...">
+        <img src="assets/images/Maria.jpg" class="card-img-top" alt="..." >
         <div class="card-body">
           <h5 class="card-title">Maria</h5>
           <p class="card-text">Hi, I’m Maria! 👋🏽
@@ -86,19 +88,7 @@
             I'm friendly and love meeting new folks, come say hi! :)</p>
         </div>
         <div class="card-footer">
-          <button type="button" class="btn btn-primary">Book a Session</button>
-        </div>
-      </div>
-    </div>
-    <div class="col">
-      <div class="card h-100">
-        <img src="assets/images/anasusan.jpg" class="card-img-top" alt="...">
-        <div class="card-body">
-          <h5 class="card-title">Ana&Susan</h5>
-          <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-        </div>
-        <div class="card-footer">
-          <button type="button" class="btn btn-primary">Book a Session</button>
+          <button type="button" class="btn btn-cards">Book a Session</button>
         </div>
       </div>
     </div>
@@ -359,17 +349,6 @@
       </ul>
     </footer>
   </div>
-
-
-
-
-
-
-
-
-
-
-
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"
 integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous">
