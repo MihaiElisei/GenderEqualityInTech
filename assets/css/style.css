@@ -54,7 +54,7 @@ body {
 #quiz {
   height: calc(100vh - 56px);
   max-width: 100vw;
-  background-image: url("assets/img/af2.jpg");
+  background-image: url("/assets/img/af2.jpg");
   background-position: center;
   box-sizing: border-box;
   display: grid;
