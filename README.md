@@ -4,7 +4,7 @@
 
 ## **Introduction**
 
-This project aims to help address the gender gap issue of women in tech. Women are dropping out of tech and STEM subjects very early in their education. This project will allow women who are currently working in tech to volunteer their time to mentor girls and women who are currently studying tech and STEM subjects in high school and university. 
+This project aims to help address the gender gap issue of women in tech. Women are dropping out of tech and STEM subjects very early on in their education. This project will allow women who are currently working in tech to volunteer their time to mentor girls and women who are currently studying tech and STEM subjects in high school and university. 
 
 ## **Table of contents** 
 
@@ -67,17 +67,19 @@ This project aims to help address the gender gap issue of women in tech. Women a
 
 #### **1.1 Target Audience**
 
-* This project is aimed at any woman who has experience working in tech and who wishes to volunteer her time to act as a mentor to younger women in school and university to help assist the gender gap that exists in tech. 
+This project is aimed at two audiences. The first audience is any woman who is currently working in the field of tech/STEM and who wishes to volunteer her time to act as a mentor to younger women in school and university who are working towards a career in tech/STEM.
+
+The second audience the site is aimed at is girls who are currently in high school or university and who wish to pursue a career in tech/STEM.
 
 #### **1.2 Visitor goals** 
 
-* As a student, or woman considering a career in tech i want to be able to search this site for mentors that may be able to mentor me during my education in tech/STEM. I want to be able to post my profile to the site as well so mentors who are browsing the site can see the subjects i am interested in and am perusing. 
+* As a student, or woman considering a career in tech i want to be able to search this site for mentors that may be able to mentor me during my education in tech/STEM. I want to be able to post my profile to the site as well so mentors who are listed on the site can see the subjects i am interested in and that i am perusing. 
 
 * For women who are currently working in tech/STEM i want to be able to post my profile on the site so students can see what field i specialize in and for them to contact me to request mentor assistance. 
 
 #### **1.3 Business goals**
 
-* No business or monetary goals, the site is aimed at helping support young women during their education years so they may choose and stick with a career in tech. 
+* No business or monetary goals, the site is aimed at helping support young women during their education years so they may choose and stick with a career in tech/STEM. 
 
 #### **1.4 User Stories**
 
@@ -139,15 +141,11 @@ The mentor card will detail information about the mentor who is volunteering the
 4. The specialty of the mentor
 5. The mentors current job description
 6. A logo of the company they are employed by
-7. A personal statement of the mentor to include current role, relevant work 
-related experience.
-8. A link button titled Be My Mentor which takes you to a form where you can
-fill in your details to connect with the mentor. 
+7. A personal statement of the mentor to include current role, relevant work related experience.
+8. A link button titled Be My Mentor which takes you to a form where you can fill in your details to connect with the mentor. 
 9. A link button titled Availability which takes you to the mentor calendar.
-10. A card titled Education which includes most recent qualifications and logos
-of the places of education.
-11. A 2nd card titled Licenses, or skills if not applicable to include logos of 
-education providers, the qualification skill and the name of the education 
+10. A card titled Education which includes most recent qualifications and logos of the places of education.
+11. A 2nd card titled Licenses, or skills if not applicable to include logos of education providers, the qualification skill and the name of the education 
 provider.
 
 #### **2.3 Student cards**
@@ -156,11 +154,11 @@ provider.
 
 #### **2.5 Women in tech stats**
 
-The women in tec stats page shows data pulled from different sources. It shows users what countries are leading the way in addressing the gender gap issue. It also highlights how the shortage of women tech can be traced as far back as high school.
+The women in tec stats page shows data pulled from different sources. It shows users what countries are leading the way in addressing the women in tech gender gap. It also highlights how the shortage of women in tech can be traced as far back as high school.
 
-The page also shows how the field of computing used to be dominated by women and we also list how women can succeed in tech and we list some of the biggest tech organizations in the world that are headed by women. 
+The page also shows how the field of computing used to be dominated by women. We also list how women have made their way to the top of some of the biggest tech companies in the world and to show them what is possible in their career.
 
-At the bottom of the page we have a number of videos where users can directly hear from women who are already working in the tech/STEM field. 
+At the bottom of the page we have a number of videos where users can hear directly from women who are already working successfully in the tech/STEM field. 
 
 #### **2.6 Quiz**
 
