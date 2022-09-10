@@ -83,8 +83,17 @@ The second audience the site is aimed at is girls who are currently in high scho
 
 #### **1.4 User Stories**
 
-* As a visitor to the company website i expect/want/need
+As a visitor to the company website i expect/want/need
  
+**Student** 
+As a woman who is starting to study tech/STEM in university i want to be able to come to the website and see if i can find a woman who is already working in the field of tech/STEM, who may be able to offer me mentoring support. 
+
+I expect to be able to find a mentor who has expertise on the languages and technologies that i am studying so it would be a suitable mentor match. 
+
+**Mentor**
+As a woman who wants to help address the issue of young women dropping out of tech/STEM, i want to be able to come to the website and register my details to let women know i am willing to volunteer my time as a mentor.
+
+I expect to be able to read the profile of each girl/woman who is looking for a mentor. I also expect to see what tech?STEM she is interested in or studying for so i can know if i may be suitable as a mentor.  
 
 #### **1.5 Design choices** 
 
@@ -102,9 +111,9 @@ The second audience the site is aimed at is girls who are currently in high scho
 
 #### **COLORS**
 
-* 
+* The color scheme we have used for the project can be found below:
 
-![Image of the color pallet used for the project]()
+![Image of the color pallet used for the project](assets/images/site_colours.png)
 
 #### **1.6 Wire Frames** 
 
@@ -150,7 +159,22 @@ provider.
 
 #### **2.3 Student cards**
 
+The student card will detail information about the student who is looking to find a mentor. The student card will include:
+
+1. A title e.g. Student
+2. The name of the student
+3. An image of the student
+4. The area of study/interest for the student
+5. Paragraph detailing a bit more about the student.
+6. The be my mentor button 
+7. A card for education showing where the student is studying or graduated from
+8. An icon of their school/university
+9. List of their grades
+10. A list of the students hobbies and interests 
+
 #### **2.4 Register as student/mentor**
+
+The contact us page is where both students and mentors can register their details with the site. There are 2 buttons on the page, one for mentors, one for students. When the user clicks the button relevant to them a modal will open prompting the user to enter their details and submit them to the site for approval. 
 
 #### **2.5 Women in tech stats**
 
@@ -162,9 +186,11 @@ At the bottom of the page we have a number of videos where users can hear direct
 
 #### **2.6 Quiz**
 
+The quiz page is a JavaScript page and visitors to the site can answer a number of questions that are relevant to people who are either pursuing, or are considering a career change into the world fo tech. All of the questions are yes or no and at the end of the quiz user will get a message giving them feedback as to if they may be suited to a career in tech.
+
 #### **2.7 Footer**
 
-* The footer is a basic bootstrap footer that contains the copywrite info and social media icons.
+* The footer is a basic bootstrap footer that contains the copywrite info.
 
 ![Image of footer]()
 </details>
@@ -214,7 +240,6 @@ To deploy the site on Github i undertook the following steps:
 
 You will then receive a confirmation saying the page has been published and also be provided with the link where people can view your site.
 
-
 The link to view the live site can be found by clicking [Here]()
 
 #### **5.2 Cloning**
@@ -225,29 +250,19 @@ Cloning a repository using the command line
 
 1. On github navigate to the project repository. The link can be found here: 
 2. Click on the tab that says < >code 
-3. Above the files, click the button that says &#8595;code
-4. From the menu select HTTPS
-5. Click on the clipboard icon on the right hand side (Image below)
-
-![Github copy link button]()
-
-6. Open the terminal in your IDE
-7. Change the current working directory to the location where you want the cloned directory.
-8. In terminal type `git clone` and then paste the URL you copied earlier 
-9. Press Enter to create your local clone.
+3. Click the copy button on the right under the HTTPS tab
+4. Open the terminal in your IDE
+5. Change the current working directory to the location where you want the cloned directory.
+6. In terminal type `git clone` and then paste the URL you copied earlier 
+7. Press Enter to create your local clone.
 
 #### **5.3 Cloning Desktop**
 You can also clone the project using Github Desktop. To do this you can do the following: 
 
 1. On github navigate to the project repository. The link can be found here: 
 2. Click on the tab that says code 
-3. Above the files, click the button that says &#8595;code
-
-![Github code button]()
-
-6. Click on Download ZIP.
-7. Unzip the repository after it downloads to your machine and then drag the unzipped files into your IDE.
-
+3. Click on Download ZIP.
+4. Unzip the repository after it downloads to your machine and then drag the unzipped files into your IDE.
 </details>
 
 <hr>
@@ -277,9 +292,10 @@ You can also clone the project using Github Desktop. To do this you can do the f
 <summary><strong>7. Contact</strong></summary>
 <br>
 
-Feel free to contact us on any of the following channels:<br>
+Feel free to contact us on any of the following channels:
 
 
+<br>
 </details>
 
 <hr>
